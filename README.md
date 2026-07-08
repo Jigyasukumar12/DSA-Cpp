@@ -17,7 +17,7 @@
 🌳 Phase 5  ─ Trees                        [2 weeks]
 ⛰️ Phase 6  ─ Heaps & Hashing              [1 week]
 🕸️ Phase 7  ─ Graphs                       [2.5 weeks]
-💎 Phase 8  ─ Dynamic Programming ⭐        [3 weeks]
+💎 Phase 8  ─ Dynamic Programming ⭐       [3 weeks]
 🎯 Phase 9  ─ Greedy Algorithms            [1 week]
 🚀 Phase 10 ─ Advanced Topics (optional)   [2 weeks]
 ```
