@@ -2,7 +2,7 @@
 
 ![Duration](https://img.shields.io/badge/Duration-1_Week-blue) ![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-brightgreen) ![Status](https://img.shields.io/badge/Status-Not_Started-lightgrey)
 
-> Number theory + bit manipulation build the intuition you'll reuse everywhere later.
+> Number theory + bit manipulation build the intuition you'll reuse everywhere later
 
 ---
 
