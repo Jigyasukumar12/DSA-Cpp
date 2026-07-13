@@ -102,4 +102,4 @@ s.length();           // size
 
 ## ➡️ Next Phase
 
-**[Phase 1: Math + Basic Problem Solving →](./PHASE_1_MATH.md)**
+**[Phase 1: Math + Basic Problem Solving →](./Phase1-Math)**
