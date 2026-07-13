@@ -85,4 +85,4 @@ Phase 10 [████░░░░░░░░░░░░░░░░] 2 wk
 
 ---
 
-**🏁 Start here → [Phase 0: C++ Foundations](./PHASE_0_FOUNDATIONS.md)**
+**🏁 Start here → [Phase 0: C++ Foundations](./Phase0-Foundations)**
