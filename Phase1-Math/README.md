@@ -103,4 +103,4 @@ Recursion       [███████░░░] 35%
 
 ## ⬅️➡️ Navigation
 
-**[← Phase 0: Foundations](./PHASE_0_FOUNDATIONS.md)** | **[Phase 2: Arrays & Strings →](./PHASE_2_ARRAYS_STRINGS.md)**
+**[← Phase 0: Foundations](./Phase0-Foundations)** | **[Phase 2: Arrays & Strings →](./Phase2-Arrays-Strings)**
