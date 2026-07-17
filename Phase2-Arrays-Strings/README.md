@@ -134,4 +134,4 @@ Strings         [████░░░░░░] 10%
 
 ## ⬅️➡️ Navigation
 
-**[← Phase 1: Math](./Phase1-Math)** | **[Phase 3: Linked List, Stack, Queue →](./PHASE_3_LINKEDLIST_STACK_QUEUE.md)**
+**[← Phase 1: Math](./Phase1-Math)** | **[Phase 3: Linked List, Stack, Queue →](./Phase3-LinkedList-Stack-Queue)**
