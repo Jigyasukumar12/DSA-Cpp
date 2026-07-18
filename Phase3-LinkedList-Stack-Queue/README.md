@@ -144,4 +144,4 @@ Queue           [█████░░░░░] 25%
 
 ## ⬅️➡️ Navigation
 
-**[← Phase 2: Arrays & Strings](./PHASE_2_ARRAYS_STRINGS.md)** | **[Phase 4: Recursion & Backtracking →](./PHASE_4_RECURSION_BACKTRACKING.md)**
+**[← Phase 2: Arrays & Strings](./Phase2-Arrays-Strings)** | **[Phase 4: Recursion & Backtracking →](./Phase4-Recursion-Backtracking)**
