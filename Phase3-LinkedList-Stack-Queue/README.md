@@ -144,4 +144,4 @@ Queue           [█████░░░░░] 25%
 
 ## ⬅️➡️ Navigation
 
-**[← Phase 2: Arrays & Strings](./Phase2-Arrays-Strings)** | **[Phase 4: Recursion & Backtracking →](./Phase4-Recursion-Backtracking)**
+**[← Phase 2: Arrays & Strings](https://github.com/Jigyasukumar12/DSA-Cpp/tree/main/Phase2-Arrays-Strings)** | **[Phase 4: Recursion & Backtracking →](https://github.com/Jigyasukumar12/DSA-Cpp/tree/main/Phase4-Recursion-Backtracking)**
