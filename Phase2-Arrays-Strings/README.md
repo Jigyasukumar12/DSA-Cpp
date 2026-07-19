@@ -134,4 +134,4 @@ Strings         [████░░░░░░] 10%
 
 ## ⬅️➡️ Navigation
 
-**[← Phase 1: Math](./Phase1-Math)** | **[Phase 3: Linked List, Stack, Queue →](./Phase3-LinkedList-Stack-Queue)**
+**[← Phase 1: Math](https://github.com/Jigyasukumar12/DSA-Cpp/tree/main/Phase1-Math)** | **[Phase 3: Linked List, Stack, Queue →](https://github.com/Jigyasukumar12/DSA-Cpp/tree/main/Phase3-LinkedList-Stack-Queue)**
