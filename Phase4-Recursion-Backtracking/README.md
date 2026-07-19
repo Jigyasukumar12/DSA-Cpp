@@ -121,4 +121,4 @@ Constraint Solving [████░░░░░░] 20%
 
 ## ⬅️➡️ Navigation
 
-**[← Phase 3: Linked List, Stack, Queue](./PHASE_3_LINKEDLIST_STACK_QUEUE.md)** | **[Phase 5: Trees →](./PHASE_5_TREES.md)**
+**[← Phase 3: Linked List, Stack, Queue](https://github.com/Jigyasukumar12/DSA-Cpp/tree/main/Phase3-LinkedList-Stack-Queue)** | **[Phase 5: Trees →](https://github.com/Jigyasukumar12/DSA-Cpp/tree/main/Phase5-Trees)**
