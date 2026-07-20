@@ -103,4 +103,4 @@ Recursion       [███████░░░] 35%
 
 ## ⬅️➡️ Navigation
 
-**[← Phase 0: Foundations](./Phase0-Foundations)** | **[Phase 2: Arrays & Strings →](./Phase2-Arrays-Strings)**
+**[← Phase 0: Foundations](https://github.com/Jigyasukumar12/DSA-Cpp/tree/main/Phase0-Foundations)** | **[Phase 2: Arrays & Strings →](./Phase2-Arrays-Strings)**
