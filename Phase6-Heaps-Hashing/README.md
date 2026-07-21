@@ -125,4 +125,4 @@ Hashing         [████████░░] 35%
 
 ## ⬅️➡️ Navigation
 
-**[← Phase 5: Trees](./PHASE_5_TREES.md)** | **[Phase 7: Graphs →](./PHASE_7_GRAPHS.md)**
+**[← Phase 5: Trees](https://github.com/Jigyasukumar12/DSA-Cpp/tree/main/Phase5-Trees)** | **[Phase 7: Graphs →](https://github.com/Jigyasukumar12/DSA-Cpp/tree/main/Phase7-Graphs)**
