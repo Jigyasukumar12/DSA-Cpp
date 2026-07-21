@@ -128,4 +128,4 @@ Balance Checks  [██░░░░░░░░] 10%
 
 ## ⬅️➡️ Navigation
 
-**[← Phase 4: Recursion & Backtracking](https://github.com/Jigyasukumar12/DSA-Cpp/tree/main/Phase4-Recursion-Backtracking)** | **[Phase 6: Heaps & Hashing →](./PHASE_6_HEAPS_HASHING.md)**
+**[← Phase 4: Recursion & Backtracking](https://github.com/Jigyasukumar12/DSA-Cpp/tree/main/Phase4-Recursion-Backtracking)** | **[Phase 6: Heaps & Hashing →](https://github.com/Jigyasukumar12/DSA-Cpp/tree/main/Phase6-Heaps-Hashing)**
